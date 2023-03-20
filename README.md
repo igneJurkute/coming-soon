@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://ignejurkute.github.io/astronautas/
+Site published at: https://ignejurkute.github.io/coming-soon/
 
 Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
@@ -47,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/igneJurkute/astronautas.git
+    git clone https://github.com/igneJurkute/coming-soon.git
     ```
 2. Install NPM packages
     ```sh
