@@ -4,6 +4,12 @@
 .hero {
     min-height: 100vh;
     background-image: url(../../img/background.png);
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .hero > .short-row {
