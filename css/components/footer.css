@@ -40,20 +40,23 @@
 }
 .footer > .short-row a{
     color: #fff;
+    text-decoration: none;
 }
 .footer .trio{
     display: flex;
     gap: 0 30px;
 }
 .footer .trio p{
-
+    position: relative;
 }
 .footer .trio p + p::before{
    content: '';
    display: inline-block;
-   width: 3px;
-   height: 30px;
-   background-color: #fff;
+   width: 2px;
+   height: 18px;
+   background-color: #fffa;
+   position: absolute;
+   left: -12px;
 }
 @media (max-width: 700px){
     .footer .trio{
